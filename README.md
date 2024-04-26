@@ -1,6 +1,7 @@
-#VizeBikeApp
+ # VizeBikeApp
 
-##A bike favorite app.
+ ## A bike favorite app.
+
 **Login/Register, Memory, Dark/Light Theme, TR/EN Language and Favorite.**
 
 ![welcome](https://github.com/achieS1/VizeBikeApp/assets/152020176/032eba38-cb17-4a11-abdd-da2da6c7d69e)
